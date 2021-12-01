@@ -1,9 +1,4 @@
-table{
-    color: #fff
-    text-align:center;
-    border-collapse: collapse;
-    font: normal 3em Arial, Helvetica, sans-serif; 
-}
+
 
 tr{
     height: 16.02vh;
@@ -35,4 +30,12 @@ td{
 
 .ACButton{
     background-color: #656165;
+}
+
+
+table{
+    color: #fff;
+    text-align: center;
+    font: normal 3em Arial, Helvetica, sans-serif;
+    border-collapse: collapse; 
 }
